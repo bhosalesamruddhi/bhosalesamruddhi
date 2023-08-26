@@ -9,13 +9,5 @@
 i'm samruddhi bhosale, exploring the universe of programming, byte by byte
 
 Skills: c++ / python / database management 
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bhosalesamruddhi)  
+ 
 
